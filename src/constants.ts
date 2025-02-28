@@ -28,7 +28,7 @@ export const FOUNDERS = [
 
   {
     name: 'Anush Dhavale',
-    role: 'Co-Founder & Chairman,
+    role: 'Co-Founder & Chairman',
     linkedin: 'https://www.linkedin.com/in/anush-dhavale-693488251/',
     image: 'https://media-hosting.imagekit.io//1dc64e466e1e4604/Anush-Dhavale.jpg?Expires=1835195009&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=R6m0QMMCljs~JcnNSdGd1e09NdQMfTKsekBgUzSXDGB1DZIYQSAnPqLFDAX59e7~pk17kmLaBSy2M5XhoK4~IZeNO8itTqWdSOpb1OotUNy~mOLduFtLPqIF3ITQWGP3Qj7wwBGB3y7hWASyi9X9aWw5pmoydQ-hEwIGUr2IzzQveaPks4M8wO5JrUQNyoli~LtlvvgWKC29FjKLBRQa~nUr8tm1FlyKMbcQTHez72rBSOAnp~Jb3o1Q5Us74virzdOdmribsRx6T1H6LhUVudJgpPN0dYK9zspaAD8Exa4cWgPwzGByHVg9BZU00QqRUW~DPM2iUt2MEras9PSP-Q__'
   }
